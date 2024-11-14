@@ -1,0 +1,35 @@
+_repo: History-of-the-big-bonanza_74667
+_version: 0.0.1
+creator:
+  author:
+    agent_name: De Quille, Dan
+    aliases:
+    - DeQuille, Dan
+    - Quille, Dan De
+    - Wright, William
+    birthdate: 1829
+    deathdate: 1898
+    gutenberg_agent_id: '53016'
+    url: http://www.gutenberg.org/2009/agents/53016
+    wikipedia: https://en.wikipedia.org/wiki/Dan_DeQuille
+description: ''
+gutenberg_issued: '2024-11-02'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '74667'
+language: en
+pgterms:marc904: https://archive.org/details/historyofbigbona00dequ
+pgterms:marc905: 20210519131445wright
+pgterms:marc906: '1876'
+pgterms:marc907: US
+production_note: deaurider, KD Weeks, and the Online Distributed Proofreading Team
+  at https://www.pgdp.net (This file was produced from images generously made available
+  by The Internet Archive)
+publication_note: '  $aUnited States :$bAmerican Publishing Company, $c1876.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: History of the big bonanza
+url: http://www.gutenberg.org/ebooks/74667

@@ -1,5 +1,8 @@
 _repo: History-of-the-big-bonanza_74667
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 74667-h/images/cover.jpg
 creator:
   author:
     agent_name: De Quille, Dan
@@ -13,6 +16,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/53016
     wikipedia: https://en.wikipedia.org/wiki/Dan_DeQuille
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/74667#History-of-the-big-bonanza
 gutenberg_issued: '2024-11-02'
 gutenberg_type: Text
 identifiers:
